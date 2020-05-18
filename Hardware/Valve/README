@@ -1,1 +1,8 @@
-Print me standing up. A imprimer à la verticale.
+Informations pour l'impression 3D :
+
+Technologie : FDM ou SLA
+Matériau : ABS idéalement, sinon PLA
+
+Positionnement : à la vertical sur le plateau
+Support : pas de supports à l'intérieur (impossible à enlever), support uniquement en partie basse pour combler l'espace vide pour accueillir le servomoteur.
+Epaisseurs de couche : 0,2mm max.
